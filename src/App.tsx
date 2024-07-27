@@ -1,5 +1,5 @@
 import "@mantine/core/styles.css";
-import { AppShell, Burger, MantineProvider } from "@mantine/core";
+import { AppShell, MantineProvider } from "@mantine/core";
 import { theme } from "./theme";
 // import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
