@@ -3,13 +3,13 @@
 const HomePage = () => {
   return (
     <div>
-      <h1>Welcome to the Home Page</h1>
-      <p>This is the main content area for the home page.</p>
+      <h1>جاوید خودرو</h1>
+      <p>این پروژه تستی است.</p>
       {/* Navigation Links */}
       <nav>
         <ul>
-          <li><a href="/profile">Go to Profile</a></li>
-          <li><a href="/settings">Go to Settings</a></li>
+          <li><a href="/profile">پروفایل من</a></li>
+          <li><a href="/settings">پیکربندی</a></li>
         </ul>
       </nav>
     </div>
